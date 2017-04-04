@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jayj5\documents\github\kaprekar-numbers\kaprekar numbers\kaprekar numbers\source.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jayj5\documents\github\kaprekar-numbers\kaprekar numbers\kaprekar numbers\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Kaprekar Numbers.vcxproj -> C:\Users\jayj5\Documents\GitHub\Kaprekar-Numbers\Kaprekar Numbers\Debug\Kaprekar Numbers.exe
+  Kaprekar Numbers.vcxproj -> C:\Users\jayj5\Documents\GitHub\Kaprekar-Numbers\Kaprekar Numbers\Debug\Kaprekar Numbers.pdb (Partial PDB)
